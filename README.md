@@ -1,6 +1,6 @@
 # BuilderTrack
 
-BuilderTrack is a modern web application designed to streamline construction project management. This application was entirely developed using AI assistance through Cursor IDE, showcasing the power of AI in software development.
+BuilderTrack is a modern web application designed to help climbers track their progress in a climbing gym. This application was entirely developed using AI assistance through Cursor IDE, showcasing the power of AI in software development.
 
 ## Technology Stack
 
@@ -12,12 +12,16 @@ BuilderTrack is a modern web application designed to streamline construction pro
 
 ## Features
 
-- **Project Management**: Track and manage construction projects efficiently
-- **Real-time Updates**: Get instant notifications about project status changes
-- **Resource Allocation**: Manage and allocate resources across different projects
-- **Document Management**: Store and organize project-related documents
-- **Team Collaboration**: Enable seamless communication between team members
-- **Reporting**: Generate detailed reports and analytics
+- **Block Management**: Users can add climbing blocks to either "In progress" or "Achieved" sections
+- **Progress Tracking**: Users can promote blocks from "In progress" to "Achieved" once completed
+- **Detailed Block Information**: Each block includes:
+  - Name
+  - Difficulty level (rated from 1 to 9)
+  - Attached photo
+  - Start date
+  - Achieved date
+  - Categories (Balance, Strength, Technique)
+- **Progress Visualization**: Users can view charts showing their progress over time, including the number of blocks achieved at each difficulty level
 
 ## Development Notes
 
