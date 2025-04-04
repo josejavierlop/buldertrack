@@ -1,0 +1,64 @@
+{
+  "app": {
+    "title": "RockProgress",
+    "language": "Language",
+    "english": "English",
+    "spanish": "Spanish"
+  },
+  "navigation": {
+    "myBlocks": "My Blocks",
+    "progress": "Progress"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "submit": "Submit"
+  },
+  "blocks": {
+    "addBlock": "Add Block",
+    "addNewBlock": "Add New Block",
+    "blockName": "Block Name",
+    "difficultyLevel": "Difficulty Level",
+    "categories": "Categories",
+    "holdTypes": "Hold Types",
+    "grade": "Level",
+    "location": "Location",
+    "name": "Name",
+    "description": "Description",
+    "dateStarted": "Started",
+    "dateCompleted": "Completed",
+    "dateAbandoned": "Abandoned",
+    "attempts": "Attempts",
+    "status": "Status",
+    "actions": "Actions",
+    "inProgress": "In Progress",
+    "achieved": "Achieved",
+    "showAbandoned": "Show Abandoned",
+    "completed": "I did it!",
+    "giveUp": "Give up",
+    "category": {
+      "balance": "Balance",
+      "strength": "Strength",
+      "technique": "Technique",
+      "dyno": "Dyno"
+    },
+    "holdType": {
+      "sloper": "Sloper",
+      "crimp": "Crimp",
+      "jug": "Jug",
+      "pinch": "Pinch"
+    }
+  },
+  "progress": {
+    "overview": "Progress Overview",
+    "totalCompleted": "Total Blocks Completed",
+    "total": "Total",
+    "level": "Level"
+  }
+} 

@@ -1,0 +1,64 @@
+{
+  "app": {
+    "title": "RockProgress",
+    "language": "Idioma",
+    "english": "Inglés",
+    "spanish": "Español"
+  },
+  "navigation": {
+    "myBlocks": "Mis Bloques",
+    "progress": "Progreso"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ha ocurrido un error",
+    "retry": "Reintentar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "add": "Añadir",
+    "submit": "Enviar"
+  },
+  "blocks": {
+    "addBlock": "Añadir Bloque",
+    "addNewBlock": "Añadir Nuevo Bloque",
+    "blockName": "Nombre del Bloque",
+    "difficultyLevel": "Nivel de Dificultad",
+    "categories": "Categorías",
+    "holdTypes": "Tipos de Agarre",
+    "grade": "Nivel",
+    "location": "Ubicación",
+    "name": "Nombre",
+    "description": "Descripción",
+    "dateStarted": "Iniciado",
+    "dateCompleted": "Completado",
+    "dateAbandoned": "Abandonado",
+    "attempts": "Intentos",
+    "status": "Estado",
+    "actions": "Acciones",
+    "inProgress": "En Progreso",
+    "achieved": "Logrados",
+    "showAbandoned": "Mostrar Abandonados",
+    "completed": "¡Lo logré!",
+    "giveUp": "Abandonar",
+    "category": {
+      "balance": "Equilibrio",
+      "strength": "Fuerza",
+      "technique": "Técnica",
+      "dyno": "Dinámico"
+    },
+    "holdType": {
+      "sloper": "Plano",
+      "crimp": "Regleta",
+      "jug": "Presa",
+      "pinch": "Pinza"
+    }
+  },
+  "progress": {
+    "overview": "Resumen de Progreso",
+    "totalCompleted": "Bloques Completados en Total",
+    "total": "Total",
+    "level": "Nivel"
+  }
+} 

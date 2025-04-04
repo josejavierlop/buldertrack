@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4F46E5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#F3F4F6" />
+  
+  <!-- Mountain/Rock shape -->
+  <path d="M50 150 L100 50 L150 150 Z" fill="url(#gradient)" />
+  
+  <!-- Progress indicator (arc) -->
+  <path d="M100 10 A90 90 0 0 1 190 100" 
+        fill="none" 
+        stroke="#4F46E5" 
+        stroke-width="8" 
+        stroke-linecap="round" />
+</svg> 

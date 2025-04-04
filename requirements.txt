@@ -1,0 +1,8 @@
+Application title: Buldertrack
+Purpouse: Track the progress of a user in a climbing gym
+Description: Given a climbing gym which ratest the different blocks from 1 to 9 depending on the complexity, the application will help the user to track his progress in climbing blocks of this gym
+Features:
+- User can add a block in one of the sections: "In progress" or "Achieved"
+- User can promote a block from "In progress" to "Achieved" once he mades it
+- A block consist in few attributes: name, difficult level, attached photo, start date, achieved date and categories which is a list of "Balance", "Strength", "Technique"
+- User can see a chart with his progress, allowing to see how many blocks of each difficult has achieved over the time
